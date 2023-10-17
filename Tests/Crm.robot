@@ -19,7 +19,7 @@ ${VALID_LOGIN_PASSWORD} =  qwe
 *** Test Cases ***
 Home Page Should Load
     [Documentation]                         Test the Home Page
-    [Tags]                                  1001   smoke   Home
+    [Tags]                                  1001   smoke   Search
     CrmApp.Go To "Home" Page
 
 
