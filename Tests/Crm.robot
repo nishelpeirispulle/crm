@@ -47,4 +47,5 @@ Should be able to add new customer
     CrmApp.Log Out
 
 
-
+Feature 1 test
+    log    Doing a new test
